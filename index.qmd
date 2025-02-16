@@ -1,24 +1,21 @@
 ---
-title: "SEBOTA II Edición"
+title: "SEBOTA III Edición"
 ---
 
-En esta página web puedes encontrar información acerca de la segunda edición de las salidas de SEBOTA.
+En esta página web puedes encontrar información acerca de la tercera edición de las salidas de SEBOTA.
 
 ### ![](pics/SEBOTA_Cazorla.png){width=75%}
 Para cualquier duda, no dudéis en contactar con nosotros!
 
 ##### Ignacio Ramos Gutiérrez ([ig.ramosgutierrez\@gmail.com](mailto:ig.ramosgutierrez@gmail.com))
 
-##### José Ignacio Márquez-Corro ([jimarcorr\@gmail.com](mailto:jimarcorr@gmail.com))
-
-##### Juan Carlos Velázquez Melero ([velazquezjc92\@gmail.com](mailto:velazquezjc92@gmail.com))
-
 ##### Sara Martín Hernanz ([sara.martin.hernanz\@gmail.com](mailto:sara.martin.hernanz@gmail.com))
 
+##### Sonia Molino de Miguel([soniamolinodemiguel\@gmail.com](mailto:soniamolinodemiguel@gmail.com))
 
 
 
 
 
-[![HitCount](https://hits.dwyl.com/se-bota/sebota-II.svg?style=flat)](http://hits.dwyl.com/se-bota/sebota-II)
-[![HitCount](https://hits.dwyl.com/se-bota/sebota-II.svg?style=flat&show=unique)](http://hits.dwyl.com/se-bota/sebota-II)
+[![HitCount](https://hits.dwyl.com/se-bota/sebota-III.svg?style=flat)](http://hits.dwyl.com/se-bota/sebota-III)
+[![HitCount](https://hits.dwyl.com/se-bota/sebota-III.svg?style=flat&show=unique)](http://hits.dwyl.com/se-bota/sebota-III)

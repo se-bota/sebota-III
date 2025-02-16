@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SEBOTA II Edición"
+  title: "SEBOTA III Edición"
   sidebar:
     background: primary
     logo: "pics/SEBOTA_logo.png"
@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/se-bota/sebota-II
+        href: https://github.com/se-bota/sebota-III
         text: Inicio
     style: docked
     contents:
