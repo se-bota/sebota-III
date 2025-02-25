@@ -1,6 +1,6 @@
 ---
 title: Ignacio Ramos-Gutiérrez
-sortby: 2
+sortby: 3
 subtitle: Universidad Autónoma de Madrid \  (Organización)
 image: https://avatars.githubusercontent.com/u/76472476?v=4
 toc: false
